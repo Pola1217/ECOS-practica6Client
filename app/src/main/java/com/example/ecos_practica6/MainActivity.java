@@ -106,6 +106,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 Toast.makeText(this, "abajo", Toast.LENGTH_LONG).show();
                 json();
 
+
                 break;
 
             case R.id.rightBtn:
